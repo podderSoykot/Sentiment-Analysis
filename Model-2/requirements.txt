@@ -1,0 +1,21 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Text Processing
+nltk
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Transformers
+transformers
+torch
+
+# Utilities
+tqdm
+jupyter
