@@ -22,7 +22,7 @@ The dataset contains feedback comments with the following attributes:
 ## Project Structure
 The repository is structured as follows:
 ```
-Repository/
+RSentiment-Analysis/
     ├── task/
     │   ├── model1_implementation.ipynb  # Baseline and Advanced Models (Logistic Regression, Random Forest, LSTM/GRU)
     │   └── model2_implementation.ipynb  # Transformer-based Models (BERT, XLM)
